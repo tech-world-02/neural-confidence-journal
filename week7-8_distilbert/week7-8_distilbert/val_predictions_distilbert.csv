@@ -1,0 +1,11 @@
+text,true_label_id,true_label,pred_label_id,pred_label,p_low,p_neutral,p_high
+I brainstormed three options for the design and parked them to compare later.,1,Neutral,1,Neutral,0.256633,0.3892036,0.35416335
+I felt small in that conversation and didn’t speak up when I disagreed.,0,Low,0,Low,0.34034044,0.3233812,0.33627838
+I published the post and the response validated my message.,2,High,1,Neutral,0.29217482,0.3557438,0.35208142
+I went for a walk at lunch and planned the rest of the afternoon.,1,Neutral,1,Neutral,0.27204317,0.3786255,0.34933132
+I hesitated to share my idea in class and then someone else said it first.,0,Low,2,High,0.3032534,0.3413443,0.35540226
+"I woke up early, finished deep work, and protected my energy all day.",2,High,1,Neutral,0.29326865,0.37219623,0.3345351
+I stood tall during the presentation and the Q&A felt natural.,2,High,2,High,0.28305742,0.34886396,0.36807865
+The meeting went fine. I answered questions and took notes for follow‑ups.,1,Neutral,1,Neutral,0.2755794,0.3679116,0.35650897
+My voice shook during the call; I wish I could start over.,0,Low,0,Low,0.34485504,0.33195394,0.32319102
+I finished the first pass of edits without changing the structure yet.,1,Neutral,1,Neutral,0.2900343,0.36602694,0.34393886
